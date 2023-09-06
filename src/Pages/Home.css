@@ -1,0 +1,15 @@
+.Home{
+  background-color: rgb(193, 217, 222);
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  box-shadow: 3px 5px;
+  margin: auto;
+  padding: 0 5px 0 5px;
+  width: 90%;
+}
+h2 {
+  padding: 5px 10px 0px 10px;
+}
+h3 {
+  padding: 0px 10px 15px 10px;
+}

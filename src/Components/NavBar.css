@@ -1,0 +1,18 @@
+button{
+  margin: 2px 10px 12px 10px;
+  padding: 0 15px 0 15px;
+  box-shadow: 3px 5px;
+}
+h1{
+  font-size: 3em;
+}
+.ul-no{
+  text-decoration: 'none';
+}
+nav{
+  background-color: rgb(193, 217, 222);
+  border: 3px solid gray;
+  box-shadow: 3px 5px;
+  margin: auto;
+  width: 90%;
+}
